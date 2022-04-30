@@ -1,0 +1,28 @@
+{
+  "name": "2495-testes-unitarios-integracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint --fix .",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tereza25/2495-testes-unitarios-integracao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tereza25/2495-testes-unitarios-integracao/issues"
+  },
+  "homepage": "https://github.com/Tereza25/2495-testes-unitarios-integracao#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.0.3"
+  }
+}
